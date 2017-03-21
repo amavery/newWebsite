@@ -1,5 +1,5 @@
 {
-    "name": "newBirth",
+    "name": "newWebsite",
     "version": "1.0.0",
     "author": "Aaren",
     "contributors": [],
@@ -16,10 +16,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/amavery/newBirth.git"
+        "url": "git+https://github.com/amavery/newWebsite.git"
     },
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/amavery/newBirth/issues"
+        "url": "https://github.com/amavery/newWebsite/issues"
     }
 }
